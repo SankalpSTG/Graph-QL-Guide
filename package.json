@@ -1,0 +1,24 @@
+{
+  "name": "graph-ql-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SankalpSTG/Graph-QL-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SankalpSTG/Graph-QL-Guide/issues"
+  },
+  "homepage": "https://github.com/SankalpSTG/Graph-QL-Guide#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
